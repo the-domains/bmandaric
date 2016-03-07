@@ -1,0 +1,28 @@
+name: bmandaric
+favicon: null
+layout_spectrum: 0.059940824285149574
+typography_spectrum: 0.2446174176875502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8418985821772367
+  lightness: 0.8954365148674697
+  saturation: 0.4548712756950408
+  rhythmicContrast: 0.9887177920900285
+purpose: []
