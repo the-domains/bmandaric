@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bmandaric]]></title>
-        <description><![CDATA[bmandaric]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Inside The Free Fitness Movement]]></title>
+        <description><![CDATA[Inside The Free Fitness Movement]]></description>
+        <link>https://thegrid.ai/bmandaric/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:13:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 21:51:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bmandaric/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[4 Ingredients To Start a Movement]]></title>
+            <description><![CDATA[<article><h1>4 Ingredients To Start a Movement</h1><p>See full TedX Beacon Street presentation by Bojan Mandaric and Brogan Graham here. </p></article>]]></description>
+            <link>https://thegrid.ai/bmandaric/4-ingredients-to-start-a-movement/index.html</link>
+            <guid isPermaLink="false">d65fd67c-c5e4-4e6a-b240-279e297dfee3</guid>
+            <pubDate>Mon, 07 Mar 2016 21:50:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4caf9903-aca3-430b-84ac-c6d5cc1f78e3.jpg">]]></description>
-            <link>undefinedb32a4041-307f-49e9-9b69-6d3011edae3f/index.html</link>
+            <link>https://thegrid.ai/bmandaric/b32a4041-307f-49e9-9b69-6d3011edae3f/index.html</link>
             <guid isPermaLink="false">b32a4041-307f-49e9-9b69-6d3011edae3f</guid>
             <pubDate>Mon, 07 Mar 2016 21:13:19 GMT</pubDate>
         </item>
